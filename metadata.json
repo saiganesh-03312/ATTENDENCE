@@ -1,0 +1,6 @@
+{
+  "name": "AccentTrack — Online Attendance Management System",
+  "description": "Enterprise Online Attendance Management System with Admin, Teacher, Student, and Report modules, ER relational engine, and Java Spring Boot + Docker Compose architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
